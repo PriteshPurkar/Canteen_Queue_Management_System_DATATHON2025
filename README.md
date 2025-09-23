@@ -12,4 +12,11 @@ Solution : So firstly what do we need? a) Proper Interaction system -- At the en
                 Thirdly we need is a proper Backend to properly function between the hardware and the user. (Python -- Flask)
                 Fourthly we need a proper communication System So that Overcrowding can be dealt. ( Twilio API's)
 
+Process Flow : 
+<img width="1361" height="321" alt="Screenshot 2025-09-24 025900" src="https://github.com/user-attachments/assets/b0f1cfe5-f2d7-4267-8285-3010cc1927bc" />
+
+
+Architecture Diagram : 
+<img width="842" height="468" alt="image" src="https://github.com/user-attachments/assets/1a666d2b-ac24-4def-860f-dda40bde61f4" />
+
 
