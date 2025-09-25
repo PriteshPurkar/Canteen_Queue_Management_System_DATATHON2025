@@ -30,3 +30,11 @@ https://drive.google.com/file/d/1X__kK0x_B8We0myADOVEGiXUDb9Lwxco/view?usp=drive
 
 
 For Idea Understanding jump directly on : 2:50 
+
+
+Won 3rd Prize in Competition : 
+
+<img width="1296" height="919" alt="Screenshot 2025-09-25 172948" src="https://github.com/user-attachments/assets/210e8e5b-6319-485e-84ab-f59fbd86dec5" />
+
+
+
